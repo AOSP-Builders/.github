@@ -6,8 +6,6 @@ We are a team of dedicated developers towards the android community who provide 
 
 ## Benefits of Using Our Services
 - **High-End Server**: We have hosted the CI on our own server equipped with high specifications and a high-speed internet connection, providing developers the opportunity to compile AOSP flawlessly.
-<img src="https://github.com/AOSP-Builders/About-Us/blob/main/images/neofetch.jpg">
-
 - **Wider availability**: You can build **ANY** Custom ROM using our CI service just by changing some env variables in the workflow file which usually shows our wider approach.
 - **Proper logs availability**: If you face any error during the compilation process, the error.log will be uploaded directly to the **Releases** section.
 - **Faster Downloads**: After the compilation process is successfully over, the build artifacts will be uploaded to the **Releases** section. By GitHub Releases you will experience a faster download.
